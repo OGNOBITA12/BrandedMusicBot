@@ -43,7 +43,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/OG_FRAINDS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DOSTO_KE_DUNIYA")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MUSIC_BOT_UPDATE")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -94,8 +94,8 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/mp42dx.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/a52771f6d6798532db55d-22062f86e09f6880b3.jpg"
-STATS_IMG_URL = "https://graph.org/file/a52771f6d6798532db55d-22062f86e09f6880b3.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/8b300ed4c4d899dbb3809-bf95b5eadee6c96ea0.jpg"
+STATS_IMG_URL = "https://graph.org/file/8b300ed4c4d899dbb3809-bf95b5eadee6c96ea0.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/a52771f6d6798532db55d-22062f86e09f6880b3.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/a52771f6d6798532db55d-22062f86e09f6880b3.jpg"
 STREAM_IMG_URL = "https://graph.org/file/a52771f6d6798532db55d-22062f86e09f6880b3.jpg"
